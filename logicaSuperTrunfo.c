@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Definição da Estrutura da Carta
+    // Definição da Estrutura das Cartas
     char estado1[3];
     char codigoDaCarta1[4];
     char nomeDaCidade1[50];
